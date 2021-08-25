@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+}
+
+body {
+  text-align: center;
+  background-image: linear-gradient(to right, #cee5d0, #f3f0d7);
+  padding: 2rem;
+}
+
+.Cards {
+  display: flex;
+  justify-content: space-evenly;
+}

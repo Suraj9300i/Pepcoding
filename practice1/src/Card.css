@@ -1,0 +1,27 @@
+.Card {
+  height: 300px;
+  width: 30%;
+  background-color: whitesmoke;
+  border-radius: 20px;
+  margin-top: 5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  font-size: 50px;
+  margin: 1rem;
+}
+button {
+  padding: 1.2rem;
+  border-radius: 50%;
+  background-color: salmon;
+  color: white;
+  font-size: 18px;
+  margin: 1rem;
+}
+
+button:hover {
+  background-color: #f8523f;
+}
